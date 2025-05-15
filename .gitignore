@@ -172,3 +172,7 @@ ENV/
 
 # mkdocs
 /site
+
+# Data
+/data/raw/
+/data/processed/
